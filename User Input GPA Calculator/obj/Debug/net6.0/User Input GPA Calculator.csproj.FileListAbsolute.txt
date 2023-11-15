@@ -1,0 +1,14 @@
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\bin\Debug\net6.0\User Input GPA Calculator.exe
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\bin\Debug\net6.0\User Input GPA Calculator.deps.json
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\bin\Debug\net6.0\User Input GPA Calculator.runtimeconfig.json
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\bin\Debug\net6.0\User Input GPA Calculator.dll
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\bin\Debug\net6.0\User Input GPA Calculator.pdb
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.dll
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\refint\User Input GPA Calculator.dll
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.pdb
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\User Input GPA Calculator.genruntimeconfig.cache
+C:\Users\DECAGON\source\repos\User Input GPA Calculator\User Input GPA Calculator\obj\Debug\net6.0\ref\User Input GPA Calculator.dll
